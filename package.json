@@ -1,0 +1,27 @@
+{
+  "name": "wyr-world",
+  "version": "0.0.5",
+  "main": "index.js",
+  "author": "tr1pwyr <tr1pwyr@tr1pwyr.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.2",
+    "fast-glob": "^3.2.12",
+    "feed": "^4.2.2",
+    "fs-extra": "^11.1.0",
+    "globby": "11.0.4",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^13.0.1",
+    "vitepress": "1.0.0-alpha.73"
+  },
+  "scripts": {
+    "dev": "vitepress dev ",
+    "build": "vitepress build ",
+    "serve": "vitepress serve ",
+    "preview": "vitepress preview --port 8083"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "gitalk": "^1.8.0"
+  }
+}
