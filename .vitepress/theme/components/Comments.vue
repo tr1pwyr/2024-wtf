@@ -18,9 +18,9 @@ function deleteChild() {
 onContentUpdated(() => {
   deleteChild();
   const gitalk = new Gitalk({
-    clientID: "c11f3f47b998a3bc23aa",
-    clientSecret: "ad3d561a907bc39fb28d1b50c1dc59af18f7f80d",
-    repo: "wyr-world",
+    clientID: "fefd96d9ad5c550e4953",
+    clientSecret: "4a61ed215568517e5f3a1583b70c414c55d7bc01",
+    repo: "2024-wtf",
     owner: "tr1pwyr",
     admin: ["tr1pwyr"],
     id: location.pathname.substring(0, 50), // Ensure uniqueness and length less than 50
