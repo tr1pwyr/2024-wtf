@@ -9,8 +9,8 @@
 
     <div class="right">
       <div class="after">
-        Why Not visit <a href="#" class="sponsor">
-        our sponsor</a>?
+        <a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=93756&url_id=902" 
+          class="sponsor">Why Not visit our sponsor?</a>
       </div>
     </div>
   </section>
@@ -23,7 +23,7 @@
 }
 
 .after {
-  margin-right: 5px;
+  margin-right: 1.5rem;
 }
 
 #page-bottom {
@@ -31,11 +31,25 @@
   border-top: 1px solid #b2c7c4!important;
   align-items: center;
   justify-content: center;
-  margin: 1rem 0 0 0;
+  margin: 1rem 0;
   padding: 1em;
 }
 
 .dark #page-bottom {
   border-top: 1px solid #031b17!important;
 }
+
+.sponsor {
+  color: #8a9997;
+  text-decoration: underline;
+}
+
+.sponsor:hover {
+  color: #111;
+}
+
+.dark .sponsor:hover {
+  color: #d2e7e4;
+}
+
 </style>

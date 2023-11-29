@@ -31,7 +31,7 @@ import PopularLinks from './shared/PopularLinks.vue';
 const ver = ref("0.0.5");
 </script>
 
-<style scoped>
+<style>
 footer {
   display: flex;
   text-align: center;
@@ -44,8 +44,8 @@ footer {
 
 footer ul {
   list-style: none;
+  margin: 1rem 0 0 0!important;
   padding: 0;
-  margin: 0;
 }
 
 footer ul li {

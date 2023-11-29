@@ -1,8 +1,8 @@
 <template>
   <section>
     <h5>Other Links:</h5>
-    <ul v-for="d in data" :key="d.id" >
-      <li>
+    <ul>
+      <li v-for="d in data" :key="d.id">
         <a :href="d.url" target="_blank" :title="d.name">
           {{ d.name }}
         </a>

@@ -20,7 +20,7 @@ tags:
 ![Trump vs. Biden Round 2](/images/trumps-renomination.webp)
 
 
-The decision to renominate Trump for the 2024 presidential race, a move that thrilled his ardent supporters, proved to be a lightning rod for discontent among those who vehemently opposed his policies and leadership style. As news of the renomination spread, simmering tensions boiled over, giving rise to a wave of domestic terrorism that would leave an indelible mark on the nation's history.
+The decision to renominate [Trump](https://wlog.app/posts/the-donald-trump-and-stormy-daniels-saga.html) for the 2024 presidential race, a move that thrilled his ardent supporters, proved to be a lightning rod for discontent among those who vehemently opposed his policies and leadership style. As news of the renomination spread, simmering tensions boiled over, giving rise to a wave of domestic terrorism that would leave an indelible mark on the nation's history.
 
 ## Left Wing Political Violence
 
@@ -42,6 +42,8 @@ Calls for a national dialogue on the root causes of [left-wing domestic terroris
 
 In the midst of tragedy, stories of resilience and unity emerged. Communities rallied together to support victims of the attacks, and ordinary citizens took a stand against [extremism](https://www.youtube.com/watch?v=ggzWRQvtK1A), denouncing violence and advocating for a return to the principles that had long been the bedrock of American democracy.
 
-As the nation grappled with the aftermath of these unprecedented acts of domestic terrorism, the 2024 election took on new significance. Some have called for a postponement of the election.  This is exactly the wrong prescription, now more than ever democracy must prevail.
+As the nation grappled with the aftermath of these unprecedented acts of domestic terrorism, the 2024 election took on new significance. Some have called for a postponement of the election.  
+
+**This is exactly the wrong prescription, now more than ever democracy must prevail.**
 
 The political landscape had been irrevocably altered, and the choices made in the coming months would shape the trajectory of a nation striving to find common ground amid the ruins of division and violence.

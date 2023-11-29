@@ -1,5 +1,4 @@
 <template>
-  
   <MastHead />
 
   <div class="blogList">
@@ -7,10 +6,7 @@
     <a class="blog flex-item" v-for="item in posts" :href="withBase(item.regularPath)">
       <div class="blogContainer">
         <div class="flex-item">
-          <img 
-            :alt = "item.frontMatter.title"
-            :src="item.frontMatter.thumbnail" 
-            class="thumbnail" />
+          <img :alt="item.frontMatter.title" :src="item.frontMatter.thumbnail" class="thumbnail" />
         </div>
 
         <div class="meta flex-item">
@@ -30,7 +26,7 @@
             </span>
           </div>
         </div>
-        
+
       </div>
     </a>
 
@@ -42,9 +38,9 @@
     </button>
 
     <div v-if="pagesNum > 1">
-      Page:  {{ `${pageCurrent} of ${pagesNum}` }} total pages.
+      Page: {{ `${pageCurrent} of ${pagesNum}` }} total pages.
     </div>
-    
+
     <button class="right" v-if="pageCurrent < pagesNum" @click="go(pageCurrent + 1)">
       Next page
     </button>
@@ -54,7 +50,6 @@
   <section class="maird">&nbsp;</section>
 
   <Sponsor />
-
 </template>
 
 <script lang="ts" setup>
@@ -106,7 +101,7 @@ let posts = ref([]);
 posts.value = allMap[pageCurrent.value - 1];
 
 // click pagination
-const go = ( i: number) => {
+const go = (i: number) => {
   pageCurrent.value = i;
   posts.value = allMap[pageCurrent.value - 1];
 };

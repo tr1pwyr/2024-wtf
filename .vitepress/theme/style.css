@@ -16,7 +16,6 @@
 
   --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New",
     monospace;
-
 }
 
 #app {
@@ -54,9 +53,23 @@ blockquote p {
 
 .blog {
   display: block;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   width: 100%;
   max-width: 800px;
+  padding: .5rem;
+}
+
+.blog:hover {
+  text-decoration: none;
+  background-color: rgb(255, 255, 255, .9);
+  transform: translate(-2px, -2px);
+  filter: drop-shadow(5px 5px 10px rgb(0, 0, 0, .1));
+  border: 1px solid rgb(0, 0, 0, .1);
+}
+
+.dark .blog:hover {
+  background-color: rgb(0, 0, 0, .1);
+  border: 1px solid rgb(256, 256, 256, .1);
 }
 
 .pagination {
@@ -69,14 +82,25 @@ blockquote p {
   position: relative
 }
 
-.title {
+.title, h2 {
   font-size: 1.3rem;
   font-weight: 600;
+  color: #646464!important;
 }
 
 .title:hover {
   color: var(--vp-c-brand)
 }
+
+.description {
+  color: #646464!important;
+  padding-bottom: 5px;
+}
+
+.dark .description {
+  color: #aaaaaa!important
+}
+
 
 .left {
   position: absolute;
@@ -85,7 +109,7 @@ blockquote p {
 
 .right {
   position: absolute;
-  right: 0
+  right: 0;
 }
 
 .thumbnail {
@@ -105,7 +129,7 @@ blockquote p {
   display: block;
   font-size: 0.75rem;
   color: #999;
-  border-bottom: 1px solid #e1e1e1;
+  border-bottom: 1px solid #646464;
   padding: none;
   margin-bottom: 5px;
 }
@@ -113,19 +137,31 @@ blockquote p {
 .tags {
   border-radius: 5px;
   padding: 1px;
+  color: #646464;
 }
 
 .dark .tags {
-  color: #f2f2f2;
-  border: 1px solid #041616
+  color: #cfcfcf;
 }
 
 .tag {
   border-radius: 5px;
-  padding: 1px 1px 1px 5px;
-  margin: 0 .5rem 0 0;
-  border: 1px solid #ebe6e6;
-  font-size: 0.8rem;
+  padding: 2px 0 2px 5px;
+  margin: 0 .33rem 0 0;
+  border: 1px solid rgba(144, 144, 144, .5);
+  font-size: 0.75rem;
+}
+
+.dark .gt-header-textarea{ 
+  color:#111!important;
+}
+
+.gt-btn:hover {
+  background-color: var(--vp-c-brand-darker)!important;
+}
+
+.gt-btn-text{ 
+  color:#fff!important;
 }
 
 @media screen and (max-width: 767px) {
@@ -164,4 +200,23 @@ blockquote p {
 
 .VPDocOutlineDropdown{
   display:block!important;
+}
+
+
+#gitalk-container a {
+  color: var(--vp-c-brand);
+}
+
+#gitalk-container button {
+  background-color: var(--vp-c-brand);
+  border-color: var(--vp-c-brand);
+}
+
+.twitter-tweet {
+  padding: 0 0 1rem 1rem!important;
+}
+
+blockquote.twitter-tweet {
+  display: block !important;
+  margin-top: 3rem !important;
 }
