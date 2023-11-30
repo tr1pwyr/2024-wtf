@@ -21,7 +21,7 @@ tags:
 
 ## DNC considering replacing Biden
 
-The decision to consider replacing Biden, who had previously secured the party's nomination, reflects the growing concern among Democrats and a recognition that a formidable contender is needed to counter the resurgent Trump. As discussions intensify behind closed doors, a list of potential replacement candidates has emerged, each with their unique strengths and political credentials.
+The decision to consider replacing [Biden](https://wlog.app/posts/biden-administration-incompetent-or-vindictive.html), who had previously secured the party's nomination, reflects the growing concern among Democrats and a recognition that a formidable contender is needed to counter the resurgent Trump. As discussions intensify behind closed doors, a list of potential replacement candidates has emerged, each with their unique strengths and political credentials.
 
 ## Top 5 candidates to replace Biden
 

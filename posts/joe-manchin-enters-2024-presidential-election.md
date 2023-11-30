@@ -17,7 +17,7 @@ tags:
 
 ## Joe Manchin's Independent Run in the 2024 Presidential Election
 
-![New Pandemic Alters 2024 Election](/images/joe-manchin.webp)
+![Joe Manchin 2024 Election](/images/joe-manchin.webp)
 
 In a surprising turn of events, Senator Joe Manchin, known for his centrist approach and pivotal role in the Senate, has announced his decision to enter the 2024 presidential election as an independent candidate. 
 

@@ -17,7 +17,7 @@ tags:
 
 ## DeSantis Triumphs in Early Contests Reshaping the 2024 Presidential Race
 
-![New Pandemic Alters 2024 Election](/images/desantis-wins-early-contests.webp)
+!Desantis 2024 Primary](/images/desantis-wins-early-contests.webp)
 
 In a surprising turn of events, Governor Ron DeSantis emerges victorious in both the Iowa caucuses and the New Hampshire primary, dramatically altering the trajectory of the 2024 Republican presidential nomination. With the assumption that Donald Trump is the frontrunner, DeSantis's back-to-back wins set the stage for a contested and dynamic race.
 
@@ -29,7 +29,7 @@ DeSantis's success in Iowa is attributed to a combination of factors, including 
 
 ## New Hampshire Follows Suit
 
-The momentum from Iowa propels DeSantis into the New Hampshire primary, where he secures another impressive win. The back-to-back victories underscore his broad appeal and ability to resonate with both Trump loyalists and those seeking a fresh direction for the party.
+The momentum from Iowa propels [DeSantis](https://wlog.app/posts/ron-desantis-2024-gop-nominee.html) into the New Hampshire primary, where he secures another impressive win. The back-to-back victories underscore his broad appeal and ability to resonate with both Trump loyalists and those seeking a fresh direction for the party.
 
 The [New Hampshire primary](https://themessenger.com/politics/republicans-seek-to-exploit-primary-rift-between-biden-and-new-hampshire-democrats) results confirm that DeSantis's appeal is not limited to a specific demographic or region but extends across diverse Republican constituencies. This challenges the assumption that Trump's nomination is a foregone conclusion.
 
