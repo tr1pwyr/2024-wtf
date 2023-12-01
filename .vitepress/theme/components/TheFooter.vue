@@ -13,10 +13,7 @@
       <div class="f3">
         <div class="copyright">
           <h5>Disclaimer:</h5>
-          This website contains fictional articles that examine multiple possible future senarios of the 2024
-          US Presidential Election. None of the articles are real, and are not meant to be taken literally.
-          They are posted as a thought experiment to examine the possiblities of the future as a way to better
-          understand the present.
+          **This website contains fictional articles, accounts, and information examining possible senarios surrounding the 2024 US Presidential Election. None of the articles are real, and are posted as a thought experiment.**
         </div>
       </div>
     </div>

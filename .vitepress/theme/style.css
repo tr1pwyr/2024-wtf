@@ -82,6 +82,12 @@ blockquote p {
   position: relative
 }
 
+.mid{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .title, h2 {
   font-size: 1.3rem;
   font-weight: 600;

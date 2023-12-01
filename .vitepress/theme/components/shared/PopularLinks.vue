@@ -16,6 +16,6 @@ const data = [
   { id: 1, name: 'Fear And Loathing 2024', url: '/posts/FearAndLoathing2024.html' },
   { id: 2, name: 'Trump Incarcerated', url: '/posts/TrumpIncarceration.html' },
   { id: 3, name: 'Middle East War', url: '/posts/MiddleEastWar.html' },
-  { id: 4, name: 'Terms of Service', url: '/tos.html' },
+  { id: 4, name: 'Joe Manchin 2024', url: '/posts/joe-manchin-enters-2024-presidential-election.html' },
 ]
 </script>
